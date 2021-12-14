@@ -1,4 +1,4 @@
 # 3D_Projection
 
-https://user-images.githubusercontent.com/50940267/146065024-3b21af95-2357-46c1-81c9-1429fe3e053b.mp4
 
+![3dcube](https://user-images.githubusercontent.com/50940267/146065419-9ee4b4b1-c2c2-48c7-a7eb-3c1f75bba517.gif)
